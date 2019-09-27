@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bharamil
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Codebase: *
+Permissions: all-permissions
+Application-Library-Allowable-Codebase: *
+Caller-Allowable-Codebase: *
+Application-Name: name-masking-valve
+
