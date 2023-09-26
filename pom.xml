@@ -8,7 +8,7 @@
 	<name>name-masking-valve</name>
 
 	<properties>
-		<catalina.version>8.0.24</catalina.version>
+		<catalina.version>8.5.86</catalina.version>
 		<version.maven.jar.plugin>2.3.2</version.maven.jar.plugin>
 	</properties>
 
